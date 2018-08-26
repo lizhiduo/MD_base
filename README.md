@@ -49,10 +49,10 @@
 > 3. 有序表项三
 ## 链接
 > 内链式：
-> 使用 \[描述\]\(链接地址\) 为文字增加外链接。链接到同样主机的资源，可以使用相对路径\[about\]\(about.md\).
-> 示例：
-> [baidu](https://www.baidu.com)
-> [baidu2](3)
+> 使用 \[描述\]\(链接地址\) 为文字增加外链接。链接到同样主机的资源，可以使用相对路径\[about\]\(about.md\).  
+> 示例：  
+> [baidu](https://www.baidu.com)  
+> [baidu2](3)  
 [3]:https://www.baidu.com
 
 ## 内嵌图片
